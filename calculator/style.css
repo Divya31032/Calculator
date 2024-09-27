@@ -1,0 +1,22 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    padding: 20px;
+    width: 60px;
+    margin: 0 3px;
+    border: 3px solid;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px;
+}
+.row input{
+    font-size: 22px;
+    margin: 0;
+    padding: 9px 0px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
